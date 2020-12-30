@@ -30,8 +30,6 @@
 //     // }
 // }
 
-// console.log(newMessage);
-
 // Création d'une fonction prenant en paramètres le message et le décalage
 function cesar(message, gap){
     const alphabet = "abcdefghijklmnopqrstuvwxyz";
